@@ -136,6 +136,131 @@ Execution time: 0.12ms</Message>
 
 Execution time: 0.13ms</Message>
     </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T16:58:59</TestDate>
+      <Status />
+      <Passed>0</Passed>
+      <Errors>11</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:04:31</TestDate>
+      <Status />
+      <Passed>0</Passed>
+      <Errors>6</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:05:32</TestDate>
+      <Status />
+      <Passed>6</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0.32ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:07:40</TestDate>
+      <Status />
+      <Passed>0</Passed>
+      <Errors>6</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:09:12</TestDate>
+      <Status />
+      <Passed>0</Passed>
+      <Errors>6</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:11:35</TestDate>
+      <Status />
+      <Passed>6</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0.13ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:17:35</TestDate>
+      <Status />
+      <Passed>6</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0.31ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:29:11</TestDate>
+      <Status />
+      <Passed>6</Passed>
+      <Errors>0</Errors>
+      <Failures>1</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-12-01T17:29:49</TestDate>
+      <Status />
+      <Passed>7</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0.13ms</Message>
+    </UnitTestResult>
   </Results>
   <Tests>
     <TestRecord Name="Menu">
@@ -275,6 +400,131 @@ Execution time: 0.12ms</Message>
 
 Execution time: 0.12ms</Message>
         </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T16:58:59</TestDate>
+          <Status />
+          <Passed>0</Passed>
+          <Errors>11</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:04:31</TestDate>
+          <Status />
+          <Passed>0</Passed>
+          <Errors>6</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:05:32</TestDate>
+          <Status />
+          <Passed>6</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0.30ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:07:40</TestDate>
+          <Status />
+          <Passed>0</Passed>
+          <Errors>6</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:09:12</TestDate>
+          <Status />
+          <Passed>0</Passed>
+          <Errors>6</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:11:35</TestDate>
+          <Status />
+          <Passed>6</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0.12ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:17:35</TestDate>
+          <Status />
+          <Passed>6</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0.29ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:29:11</TestDate>
+          <Status />
+          <Passed>6</Passed>
+          <Errors>0</Errors>
+          <Failures>1</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2014-12-01T17:29:49</TestDate>
+          <Status />
+          <Passed>7</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0.12ms</Message>
+        </UnitTestResult>
       </Results>
       <Tests>
         <TestRecord Name="MealTestClass">
@@ -403,6 +653,131 @@ Execution time: 0.11ms</Message>
               <TestDate>2014-12-01T16:55:34</TestDate>
               <Status />
               <Passed>6</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0.12ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T16:58:59</TestDate>
+              <Status />
+              <Passed>0</Passed>
+              <Errors>11</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:04:31</TestDate>
+              <Status />
+              <Passed>0</Passed>
+              <Errors>6</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:05:32</TestDate>
+              <Status />
+              <Passed>6</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0.30ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:07:40</TestDate>
+              <Status />
+              <Passed>0</Passed>
+              <Errors>6</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:09:12</TestDate>
+              <Status />
+              <Passed>0</Passed>
+              <Errors>6</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:11:35</TestDate>
+              <Status />
+              <Passed>6</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0.12ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:17:35</TestDate>
+              <Status />
+              <Passed>6</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0.29ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:29:11</TestDate>
+              <Status />
+              <Passed>6</Passed>
+              <Errors>0</Errors>
+              <Failures>1</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2014-12-01T17:29:49</TestDate>
+              <Status />
+              <Passed>7</Passed>
               <Errors>0</Errors>
               <Failures>0</Failures>
               <Inconclusive>0</Inconclusive>
@@ -580,6 +955,117 @@ Execution time: 0.00ms</Message>
                   <ConsoleOutput />
                   <ConsoleError />
                 </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:31</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:05:32</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:07:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:28 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:09:12</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:11:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:17:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
               </Results>
             </TestRecord>
             <TestRecord Name="testCanRepeatFalse">
@@ -632,6 +1118,137 @@ Execution time: 0.02ms</Message>
                   <Message>Test successful
 
 Execution time: 0.02ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:31</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:55</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:05:32</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.05ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:07:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:28 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:09:12</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:11:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:17:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.05ms</Message>
                   <ConsoleOutput />
                   <ConsoleError />
                 </UnitTestResult>
@@ -690,6 +1307,117 @@ Execution time: 0.00ms</Message>
                   <ConsoleOutput />
                   <ConsoleError />
                 </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:31</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:05:32</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:07:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:28 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:09:12</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:11:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:17:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
               </Results>
             </TestRecord>
             <TestRecord Name="testGetSide">
@@ -728,6 +1456,117 @@ Execution time: 0.00ms</Message>
                   <ConsoleOutput />
                   <ConsoleError />
                 </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:31</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:05:32</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:07:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:28 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:09:12</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:11:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:17:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
               </Results>
             </TestRecord>
             <TestRecord Name="testGetDessert">
@@ -749,12 +1588,803 @@ Execution time: 0.00ms</Message>
                   <ConsoleOutput />
                   <ConsoleError />
                 </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:31</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:05:32</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:07:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:28 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:09:12</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:11:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:17:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
               </Results>
             </TestRecord>
             <TestRecord Name="testGetDrink">
               <Results>
                 <UnitTestResult>
                   <TestDate>2014-12-01T16:55:34</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:04:31</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:05:32</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:07:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:28 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:09:12</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x000ab] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:11:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:17:35</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testCanRepeatFalseMorning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:00:28</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:01:20</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testCanRepeatFalseNight">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testCanRepeatTrueNight">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetDessertMorning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetDessertNight">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetDrinkMorning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetDrinkNight">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetEntreeMorning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetEntreeNight">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetSideMorning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetSideNight">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T16:58:59</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>SetUp : System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.String].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealClass..ctor (System.Collections.Generic.Dictionary`2 args) [0x00041] in /home/d-chan42/Desktop/C#/Menu/Menu/MealClass.cs:27 
+  at Menu.MealTestClass.Init () [0x0009f] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:25 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetItem1Morning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetItem1Night">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetItem2Morning">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetItem2Night">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>0</Errors>
+                  <Failures>1</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>  Expected string length 6 but was 4. Strings differ at index 0.
+  Expected: "potato"
+  But was:  "wine"
+  -----------^
+</Message>
+                  <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, IResolveConstraint expression, System.String message, System.Object[] args) [0x00000] in &lt;filename unknown&gt;:0 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in &lt;filename unknown&gt;:0 
+  at Menu.MealTestClass.testGetItem2Night () [0x00001] in /home/d-chan42/Desktop/C#/Menu/Menu/MealTestClass.cs:45 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+            <TestRecord Name="testGetItem3Night">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:11</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                  <ConsoleOutput />
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2014-12-01T17:29:49</TestDate>
                   <Status />
                   <Passed>1</Passed>
                   <Errors>0</Errors>

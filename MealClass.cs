@@ -5,26 +5,16 @@ namespace Menu
 {
 	public class MealClass
 	{
-		string entree;
-		string side;
-		string drink;
-		string dessert;
+		Dictionary<int, string> meal;
 		string repeat;
 
-		MealClass()
-		{
-			entree = "error";
-			side = "error";
-			drink = "error";
-			dessert = "error";
-			repeat = "none";
-		}
 		public MealClass(Dictionary<string, string> args)
 		{
-			entree = args ["entree"];
-			side = args["side"];
-			drink = args["drink"];
-			dessert = args["dessert"];
+			meal = new Dictionary<int, string> ();
+			meal.Add (1, args ["entree"]);
+			meal.Add (2, args ["side"]);
+			meal.Add (3, args ["drink"]);
+			meal.Add (4, args ["dessert"]);
 			repeat = args ["repeat"];
 		}
 		public bool canRepeat(string item)
@@ -34,21 +24,9 @@ namespace Menu
 			} else
 			{ return false;}
 		}
-		public string getEntree
+		public string getItem(int itemNumber)
 		{
-			get{return entree;}
-		}
-		public string getSide
-		{
-			get{return side;}
-		}
-		public string getDrink
-		{
-			get{return drink;}
-		}
-		public string getDessert
-		{
-			get{return dessert;}
+			return meal[itemNumber];
 		}
 	}
 }
