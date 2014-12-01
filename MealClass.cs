@@ -38,6 +38,18 @@ namespace Menu
 		{
 			get{return entree;}
 		}
+		public string getSide
+		{
+			get{return side;}
+		}
+		public string getDrink
+		{
+			get{return drink;}
+		}
+		public string getDessert
+		{
+			get{return dessert;}
+		}
 	}
 }
 

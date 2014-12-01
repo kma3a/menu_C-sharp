@@ -38,6 +38,18 @@ namespace Menu
 		{
 			Assert.AreEqual("steak", testMealNight.getEntree);
 		}
+		[Test]public void testGetSide ()
+		{
+			Assert.AreEqual("potato", testMealNight.getSide);
+		}
+		[Test]public void testGetDrink ()
+		{
+			Assert.AreEqual("wine", testMealNight.getDrink);
+		}
+		[Test]public void testGetDessert ()
+		{
+			Assert.AreEqual("cake", testMealNight.getDessert);
+		}
 	}
 }
 
