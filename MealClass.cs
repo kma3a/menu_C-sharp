@@ -9,6 +9,7 @@ namespace Menu
 		string side;
 		string drink;
 		string dessert;
+		string repeat;
 
 		MealClass()
 		{
@@ -16,6 +17,7 @@ namespace Menu
 			side = "error";
 			drink = "error";
 			dessert = "error";
+			repeat = "none";
 		}
 		public MealClass(Dictionary<string, string> args)
 		{
@@ -23,6 +25,18 @@ namespace Menu
 			side = args["side"];
 			drink = args["drink"];
 			dessert = args["dessert"];
+			repeat = args ["repeat"];
+		}
+		public bool canRepeat(string item)
+		{
+			if (repeat == item) {
+				return true;
+			} else
+			{ return false;}
+		}
+		public string getEntree
+		{
+			get{return entree;}
 		}
 	}
 }
